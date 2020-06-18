@@ -29,7 +29,5 @@ This is an open source tool to dump the wifi profiles and cleartext passwords of
 [+] Change Directory<br>
 [+] Run the application as C:\\>python wifi_dumper.py
 
-# Questions?
-Twitter: https://twitter.com/maniarviral<br>
-LinkedIn: https://au.linkedin.com/in/viralmaniar
+
 
